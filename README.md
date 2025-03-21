@@ -1,6 +1,6 @@
-# Building-Agentic-Systems-with-Generative-AI
+# Building-Agentic-AI-Systems
 
-Building Agentic Systems with Generative AI, published by Packt
+Building Agentic AI Systems, published by Packt
 
 # Instructions to setup Environment
 
