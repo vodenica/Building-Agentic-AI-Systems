@@ -1,5 +1,4 @@
 # Building Agentic Systems with Generative AI
-=======
 
 Building Agentic AI Systems, published by Packt
 
