@@ -14,7 +14,7 @@ You can run the notebooks in this repository in two ways:
 
 Each notebook can be opened directly in Google Colab by clicking on the "Open in Google Colab" badge in the notebook's header:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/repository-name/blob/main/notebooks/example_notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Building-Agentic-AI-Systems/blob/main/Chapter_02.ipynb)
 
 This is the quickest way to get started as it requires no local setup.
 
