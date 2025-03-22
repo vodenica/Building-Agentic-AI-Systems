@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 # Building Agentic Systems with Generative AI
+=======
+# Building-Agentic-AI-Systems
+>>>>>>> 013964f3ddd6ed018a7698458f2e4fc7698375c8
 
-Building Agentic Systems with Generative AI, published by Packt
+Building Agentic AI Systems, published by Packt
 
 Create intelligent, autonomous AI agents, that can reason, plan, adapt, and execute.
 
