@@ -1,6 +1,8 @@
-# Building-Agentic-Systems-with-Generative-AI
+# Building Agentic Systems with Generative AI
 
 Building Agentic Systems with Generative AI, published by Packt
+
+Create intelligent, autonomous AI agents, that can reason, plan, adapt, and execute.
 
 # Instructions to setup Environment
 
