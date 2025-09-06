@@ -1,4 +1,41 @@
-#### How to Run a Jupyter Notebook (`*.ipynb`) on Your Local Machine
+### Run a Jupyter Notebook (`*.ipynb`) on Your Local Machine
+
+
+#### Run Virtual Environments with Jupyter!**
+
+As someone working in ed tech and creating courses, using virtual environments with Jupyter notebooks is **definitely possible and highly recommended** for managing project dependencies This is especially useful when you're working on multiple projects or course materials that require different package versions.
+
+#### **Using venv with Jupyter**
+
+Here's how to set up a virtual environment for your Jupyter notebook:
+
+1. **Create a virtual environment:**
+   ```bash
+   python3 -m venv myenv
+   ```
+
+2. **Activate the environment:**
+   - Windows: `myenv\Scripts\activate`
+   - Mac/Linux: `source myenv/bin/activate`
+
+3. **Install Jupyter and ipykernel in the virtual environment:**
+   ```bash
+   pip install jupyter ipykernel
+   ```
+
+4. **Add your virtual environment as a Jupyter kernel:**
+   ```bash
+   python -m ipykernel install --user --name=myenv --display-name="My Virtual Env"
+   ```
+
+5. **Launch Jupyter Notebook:**
+   ```bash
+   jupyter notebook
+   ```
+
+Now when you create a new notebook or open an existing one, you can select your virtual environment from the **Kernel > Change kernel** menu . Your virtual environment will appear in the list of available kernels .
+
+### Run without virtual environment
 
 **Step 1: Install Jupyter Notebook**
 
